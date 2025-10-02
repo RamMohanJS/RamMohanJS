@@ -1,27 +1,27 @@
 <h1 align="center"> Hello, I'm Ram Mohan 👋 </h1>
 <h3 align="center">Software Engineer at Tata Consultancy Services | Java Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavansantosh-ps&label=Profile%20views&color=0e75b6&style=flat" alt="pavansantosh-ps" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RamMohanJS&label=Profile%20views&color=0e75b6&style=flat" alt="RamMohanJS" /> </p>
 
 ### 🤔 About
 - 🌱 I’m currently working on honing my skills in **backend development**, **frontend frameworks**, and **SQL-based analytics**.
 - 🤝 I have experience with **React**, **Redux**, **Django**, and have delved into **Go**.
 - ⚙️ Worked with architectural patterns such as **Microservices**, **Monolithic** and **Event-driven** architectures.
 - 😄 Passionate about building accessible and efficient software solutions.
-- 📫 Reach me at: [pavansantosh.ips@gmail.com](mailto:pavansantosh.ips@gmail.com)
+- 📫 Reach me at: [jarammohan@gmail.com](mailto:jsrammohan@gmail.com)
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | TypeScript | JavaScript | Java | Go | HTML | CSS
+- 💻 &nbsp; Java | Python | JavaScript | HTML | CSS
 - 🌐 &nbsp; HTML | CSS | React.js | Redux | Django | Next.js | Tailwind CSS
 - 🛢 &nbsp;&nbsp; MySQL | PostgreSQL | Oracle | AWS
-- 🔧 &nbsp; Git | Docker | Kubernetes
+- 🔧 &nbsp; Git | Docker | Kubernetes | Linux
 
 <br>
 
-<a href="https://github.com/pavansantosh-ps">
+<a href="https://github.com/RamMohanJS">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavansantosh-ps&theme=buefy&show_icons=true" /> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavansantosh-ps&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamMohanJS&theme=buefy&layout=compact" />
 </a>
 
 <br/>
