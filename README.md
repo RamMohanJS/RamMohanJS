@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm Ram Mohan 👋 </h1>
-<h3 align="center">Software Engineer at Tata Consultancy Services | Java Developer</h3>
+<h3 align="center">Software Developer at Tata Consultancy Services | Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RamMohanJS&label=Profile%20views&color=0e75b6&style=flat" alt="RamMohanJS" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 💻 &nbsp; Java | Python | JavaScript | HTML | CSS
 - 🌐 &nbsp; HTML | CSS | React.js | Redux | Django | Next.js | Tailwind CSS
-- 🛢 &nbsp;&nbsp; MySQL | PostgreSQL | Oracle | AWS
+- 🛢 &nbsp;&nbsp; MySQL | PostgreSQL
 - 🔧 &nbsp; Git | Docker | Kubernetes | Linux
 
 <br>
