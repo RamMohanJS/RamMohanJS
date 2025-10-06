@@ -5,7 +5,7 @@
 
 ### 🤔 About
 - 🌱 I’m currently working on honing my skills in **backend development**, **frontend frameworks**, and **SQL-based analytics**.
-- 🤝 I have experience with **React**, **Redux**, **Django**, and have delved into **Go**.
+- 🤝 I have experience with **Java**, **PostgreSQL**, **API**, and have delved into **REACT**.
 - ⚙️ Worked with architectural patterns such as **Microservices**, **Monolithic** and **Event-driven** architectures.
 - 😄 Passionate about building accessible and efficient software solutions.
 - 📫 Reach me at: [jarammohan@gmail.com](mailto:jsrammohan@gmail.com)
